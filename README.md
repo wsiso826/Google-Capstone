@@ -1,2 +1,2 @@
 # Google-Capstone
- This is my data analaysis project on Zelda Game Sales
+ This is my data analysis project on Zelda Game Sales
