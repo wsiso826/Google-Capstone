@@ -1,7 +1,7 @@
 --Selecting all Zelda games from table except for the games that were handheld releases
 
-select distinct * from vgsales
-where name like 'the_legend_of_zelda%'
-and year is not null
-and platform not in ('gb', 'gba', 'ds', '3ds')
-order by year;
+SELECT DISTINCT * FROM vgsales
+WHERE name LIKE 'the_legend_of_zelda%'
+AND year IS NOT NULL
+AND platform NOT IN ('gb', 'gba', 'ds', '3ds')
+ORDER BY year;
