@@ -5,7 +5,7 @@ This project is a part of the Google Data Analytics Course at [Coursera]([http:/
 <img width="613" alt="Zelda Sales Dashboard" src="https://github.com/wsiso826/Google-Capstone/assets/149908201/f5621247-adf4-46e1-970c-ff6800e9407c">
 
 ## Project Intro/Objective
-The purpose of this project is a case study of the global sales of the video game "The Legend of Zelda". (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is a case study of the global sales of the video game "The Legend of Zelda". The goal is to answer the stakeholders' questions accurately and to create a visual dashboard for them to utilize.
 
 ### Methods Used
 * Data-Driven Decision-Making
